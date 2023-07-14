@@ -1,5 +1,5 @@
 body {
-    font-family: roboto, "Times New Roman", sans-serif
+    font-family: "roboto", "Times-New-Roman", sans-serif;
 }
 
 .section1 {
@@ -23,7 +23,10 @@ ul {
     padding: 0;
     font-size: 18px;
     color: #e5e7eb;
+    display: flex;
+    gap: 20px;
 }
+
 
 ul li a {
     text-decoration: none;
