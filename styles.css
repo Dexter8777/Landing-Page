@@ -45,7 +45,8 @@ ul {
 
 .sub-section1 {
     display: flex;
-    width: 800px;
+    justify-content: space-evenly;
+    gap: 20px;
 }
 
 .hero-section {
