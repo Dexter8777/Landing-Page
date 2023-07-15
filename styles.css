@@ -17,7 +17,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 .header-logo {
@@ -46,8 +46,10 @@ ul {
 .sub-section1 {
     display: flex;
     justify-content: space-evenly;
-    gap: 20px;
+    gap: 60px;
+    margin-bottom: 50px;
 }
+
 
 .hero-section {
     width: 400px;
