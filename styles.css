@@ -45,10 +45,11 @@ ul {
 
 .sub-section1 {
     display: flex;
+    width: 800px;
 }
 
 .hero-section {
-    max-width: 400px;
+    width: 400px;
 }
 
 .hero-main-text {
@@ -70,6 +71,6 @@ ul {
 .placeholder-img {
     background-color: grey;
     padding: 10px;
-    max-width: 400px;
+    width: 400px;
     color: #e5e7eb;
 }
