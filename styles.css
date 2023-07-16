@@ -100,6 +100,10 @@ ul {
     text-align: center;
 }
 
+.information-box {
+    display: flex;
+}
+
 .sub-section2 {
     display: flex;
     align-items: center;
