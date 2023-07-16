@@ -100,6 +100,12 @@ ul {
     text-align: center;
 }
 
+.sub-section2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .text-img {
     width: 200px;
     height: 200px;
