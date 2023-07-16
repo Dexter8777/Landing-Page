@@ -100,17 +100,18 @@ ul {
     text-align: center;
 }
 
+.sub-section2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
 .information-box {
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 250px;
-}
-
-.sub-section2 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .text-img {
