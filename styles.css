@@ -52,7 +52,7 @@ ul {
 
 
 .hero-section {
-    width: 400px;
+    width: 450px;
     
 }
 
@@ -81,9 +81,10 @@ ul {
 .placeholder-img {
     background-color: grey;
     padding: 10px;
-    width: 400px;
+    max-width: 450px;
     color: #e5e7eb;
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-grow: 1;
 }
