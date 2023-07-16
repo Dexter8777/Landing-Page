@@ -102,6 +102,8 @@ ul {
 
 .information-box {
     display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .sub-section2 {
