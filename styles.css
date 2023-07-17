@@ -165,3 +165,12 @@ ul {
 .call-to-action {
     color: #f9faf8;
 }
+
+.sign-up-button {
+    background-color: #3882f6;
+    color: white;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
