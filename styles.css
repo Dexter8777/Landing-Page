@@ -171,6 +171,7 @@ ul {
     align-items: center;
     padding: 20px 40px;
     min-width: 800px;
+    border-radius: 10px;
 }
 
 .call-to-action {
