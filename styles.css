@@ -149,6 +149,8 @@ ul {
     color: #1f2937;
 }
 
-.quote-section p {
+.author {
     align-self: flex-end;
+    font-weight: 900;
+    font-size: 20px;
 }
