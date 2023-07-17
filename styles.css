@@ -139,10 +139,16 @@ ul {
 
 .quote-section {
     width: 100ch;
+    display: flex;
+    flex-direction: column;
 }
 
 .quote-txt {
     font-size: 36px;
     font-style: italic;
     color: #1f2937;
+}
+
+.quote-section p {
+    align-self: flex-end;
 }
