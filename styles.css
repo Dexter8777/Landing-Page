@@ -162,6 +162,7 @@ ul {
     Display: flex;
     justify-content: center;
     align-items: center;
+    padding: 40px;
 }
 
 .sign-up-section {
