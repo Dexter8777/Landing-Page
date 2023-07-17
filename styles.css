@@ -161,9 +161,9 @@ ul {
 .sign-up-section {
     background-color: #3882f6;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
-    
+    padding: 20px 40px;
 }
 
 .call-to-action {
