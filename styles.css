@@ -46,14 +46,12 @@ ul {
 .sub-section1 {
     display: flex;
     justify-content: space-evenly;
-    gap: 60px;
     margin-bottom: 50px;
 }
 
 
 .hero-section {
     width: 450px;
-    
 }
 
 .hero-main-text {
@@ -66,7 +64,6 @@ ul {
 .hero-secondary-text {
     font-size: 18px;
     color: #e5e7eb;
-    
 }
 
 .hero-button {
@@ -80,13 +77,11 @@ ul {
 
 .placeholder-img {
     background-color: grey;
-    padding: 10px;
-    max-width: 450px;
+    width: 450px;
     color: #e5e7eb;
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-grow: 1;
 }
 
 /*  ===================
@@ -134,7 +129,6 @@ ul {
     padding: 20px;
     display: flex;
     justify-content: center;
-    
 }
 
 .quote-section {
@@ -154,6 +148,7 @@ ul {
     font-weight: 900;
     font-size: 20px;
 }
+
 /*  ======================
     CALL TO ACTION SECTION
     ====================== */
@@ -180,7 +175,6 @@ ul {
     font-size: 20px;
     font-weight: 900px;
     margin-bottom: 0;
-
 }
 
 .sign-up-txt {
