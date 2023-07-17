@@ -162,7 +162,7 @@ ul {
     background-color: #3882f6;
     display: flex;
     justify-content: space-between;
-    
+    align-items: center;
     
 }
 
