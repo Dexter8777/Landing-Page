@@ -168,9 +168,12 @@ ul {
     color: #f9faf8;
     font-size: 20px;
     font-weight: 900px;
+    margin-bottom: 0;
 }
+
 .sign-up-txt {
     color: #e5e7eb;
+    margin-top: 0;
 }
 
 .sign-up-button {
